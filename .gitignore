@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+spark-warehouse/
+metastore_db/

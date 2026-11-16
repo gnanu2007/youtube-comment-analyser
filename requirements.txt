@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+google-api-python-client
+vaderSentiment
+scikit-learn
+wordcloud
+pyspark
+pytest
